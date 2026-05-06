@@ -267,12 +267,6 @@
 	padding: 0 50px 82px;
 }
 
-.footer__address {
-	width: 265px;
-	font-size: 18px;
-	line-height: 24px;
-}
-
 .footer__menu {
 	display: flex;
 	flex-direction: column;
